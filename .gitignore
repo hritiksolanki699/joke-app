@@ -1,0 +1,5 @@
+
+/joke-app/node_modules
+/joke-frontend/node_modules
+.vscode
+
